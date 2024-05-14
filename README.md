@@ -1,2 +1,2 @@
 # CarePal-App-
-Carpal - A FHIR based app
+Carpal - A FHIR based medical chatbot
